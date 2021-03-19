@@ -19,10 +19,6 @@ Ngành: KHMT
     - Google Tìm kiếm thường bỏ qua dấu câu vì đó không được xem là toán tử tìm kiếm.
     - Đừng thêm khoảng trống giữa các ký hiệu/từ ngữ và cụm từ tìm kiếm.
 ### 3- Tìm kiếm trên các trang đã truy cập
-     Nếu bạn bật Hoạt động trên web và ứng dụng, thì nội dung tìm kiếm và hoạt động của bạn trên 
-     các dịch vụ khác của Google sẽ được lưu vào Tài khoản Google của bạn. Nhờ đó, bạn có thể trải
-     nghiệm nhiều nội dung và dịch vụ cá nhân hóa hơn, chẳng hạn như khả năng tìm kiếm nhanh hơn 
-     và mục đề xuất hữu ích hơn về ứng dụng và nội dung. 
+     Nếu bạn bật Hoạt động trên web và ứng dụng, thì nội dung tìm kiếm và hoạt động của bạn trên các dịch vụ khác của Google sẽ được lưu vào Tài khoản Google của bạn. Nhờ đó, bạn có thể trải nghiệm nhiều nội dung và dịch vụ cá nhân hóa hơn, chẳng hạn như khả năng tìm kiếm nhanh hơn và mục đề xuất hữu ích hơn về ứng dụng và nội dung. 
 ### 4- Tùy chỉnh cài đặt tìm kiếm 
-    Việc bật tùy chọn Tìm kiếm an toàn cho phép ẩn các kết quả không mong muốn. Tùy chọn Tìm kiếm an 
-    toàn có thể do quản trị viên thiết bị hoặc quản trị viên mạng của bạn đặt.
+    Việc bật tùy chọn Tìm kiếm an toàn cho phép ẩn các kết quả không mong muốn. Tùy chọn Tìm kiếm an toàn có thể do quản trị viên thiết bị hoặc quản trị viên mạng của bạn đặt.
