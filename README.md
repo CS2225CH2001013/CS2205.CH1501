@@ -7,7 +7,7 @@ Ngành: KHMT
 
 # Các tính năng tìm kiếm nâng cao của Google để tìm kiếm thông tin hiệu quả hơn:
 
-#  https://www.google.com/advanced_search
+##  https://www.google.com/advanced_search
  - Tìm kiếm tất cả các từ hoặc các cụm từ, có những từ trong nhóm tìm kiếm, có thể loại bỏ những từ không có trong số những từ tìm kiếm
  - Trong tìm kiếm nâng cao ta có thể lựa chọn bất kỳ ngôn ngữ nào và khu vực tìm kiếm
  - Có thể tìm kiếm với thời gian lần cập nhật thông tin 
