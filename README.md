@@ -7,8 +7,9 @@ Ngành: KHMT
 
 # Các tính năng tìm kiếm nâng cao của Google để tìm kiếm thông tin hiệu quả hơn:
 
-# 1- https://scholar.google.com/
-Google Scholar là một dịch vụ tìm kiếm miễn phí đánh chỉ mục toàn văn các bài luận có tính học thuật trong các nội dung đã xuất bản. Xuất hiện dưới bản beta từ tháng 11 năm 2004, GS bao gồm tất cả các tạp chí học thuật online được xem nhiều nhất. Tính năng của nó tương tự Scirus từ Elsevier, CiteSeer, và getCITED. Wikipedia
-
-# 2- https://www.google.com/advanced_search
- 
+#  https://www.google.com/advanced_search
+ - Tìm kiếm tất cả các từ hoặc các cụm từ, có những từ trong nhóm tìm kiếm, có thể loại bỏ những từ không có trong số những từ tìm kiếm
+ - Trong tìm kiếm nâng cao ta có thể lựa chọn bất kỳ ngôn ngữ nào và khu vực tìm kiếm
+ - Có thể tìm kiếm với thời gian lần cập nhật thông tin 
+ - Vị trí thông tin tìm kiếm xuất hiện
+ - Tìm kiếm trên định dạng của thông tin tim kiếm.
