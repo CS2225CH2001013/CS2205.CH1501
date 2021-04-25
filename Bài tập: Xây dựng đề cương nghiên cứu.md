@@ -3,9 +3,9 @@
 
 ## 1.	Sự cần thiết của nghiên cứu
  - Hiện nay nhiều nước trên thế giới đã áp dụng phương pháp đánh giá bằng trắc nghiệm khách quan (TNKQ) bởi nó có nhiều ưu điểm nổi bật so với các phương pháp đánh giá truyền thống: kiểm tra vấn đáp, kiểm tra viết tự luận...
- -Thực tế ở nước ta trong năm học 2006 – 2007, Bộ Giáo dục và Đào tạo đã áp dụng hình thức thi trắc nghiệm khách quan cho kì thi tốt nghiệp trung học phổ thông quốc gia cho bốn môn: Vật lí, Hoá học, Sinh học, Ngoại ngữ, đặc biệt năm học 2016 –2017 đã áp dụng thêm cho môn Toán.
- -Đối với môn Toán, việc thi trắc nghiệm môn Toán kỳ thi tốt nghiệp THPT Quốc Gia sẽ giúp quá trình dạy và học được toàn diện kiến thức hơn, giảm được việc học lệch, học tủ.
- -Xây dựng hệ thống kiểm tra đánh giá kiến thức và khuyến nghị bổ sung kiến thức Toán cho học sinh phổ chưa được quan tâm.
+ - Thực tế ở nước ta trong năm học 2006 – 2007, Bộ Giáo dục và Đào tạo đã áp dụng hình thức thi trắc nghiệm khách quan cho kì thi tốt nghiệp trung học phổ thông quốc gia cho bốn môn: Vật lí, Hoá học, Sinh học, Ngoại ngữ, đặc biệt năm học 2016 –2017 đã áp dụng thêm cho môn Toán.
+ - Đối với môn Toán, việc thi trắc nghiệm môn Toán kỳ thi tốt nghiệp THPT Quốc Gia sẽ giúp quá trình dạy và học được toàn diện kiến thức hơn, giảm được việc học lệch, học tủ.
+ - Xây dựng hệ thống kiểm tra đánh giá kiến thức và khuyến nghị bổ sung kiến thức Toán cho học sinh phổ chưa được quan tâm.
 ## 2.	Mục tiêu nghiên cứu
 Sau khi học sinh trả lời những câu hỏi trắc nghiệm hệ thống sẽ đưa ra:
 -	Kết quả tỷ lệ câu hỏi đạt được cùng với nhận xét và đánh giá mức độ (yếu, trung bình, khá, giỏi) về kiến thức.
