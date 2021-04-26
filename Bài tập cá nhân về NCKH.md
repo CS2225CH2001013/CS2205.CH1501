@@ -1,4 +1,16 @@
 
+#1. Lĩnh vực nghiên cứu (research area) là gì? Ví dụ CV, NLP, IoT, Big Data
+     Lĩnh vực nghiên cứu Ontology
+#2. Các hội nghị tạp chí quan trọng là gì? Ví dụ CVPR, ICML, ACL
+     - Advances in Intelligent Systems and Computing
+     - Ontology Conferences
+#3. Các chủ đề nghiên cứu (research topic) là gì?
+     - Biểu diễn tri thức
+     - Đồ thị tri thức
+     - Mạng ngữ nghĩa
+#4. Các bài toán nghiên cứu là gì?
+     Biễu diễn một số kiến thức cơ bản của môn Toán cho học sinh THPT
+
 ## Xây dựng hệ thống đánh giá và khuyến nghị kiến thức Toán cho học sinh THPT qua hệ thống câu hỏi trắc nghiệm Toán kỳ thi tốt nghiệp THPT-Quốc Gia 
 
 ## 1. Sự cần thiết của nghiên cứu
