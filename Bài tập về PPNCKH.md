@@ -2,10 +2,9 @@
 # 1. Lĩnh vực nghiên cứu (research area) là gì?
    - Knowledge Representation
 # 2. Các hội nghị tạp chí quan trọng là gì?
-   - Advances in Intelligent Systems and Computing
-   - Distributed Computing and Artificial Intelligence
-   - International Conference on Learning Representations
-   - International Conference on Knowledge Graphs
+   - International Conference on Distributed Computing Systems (https://icdcs2021.us/)
+   - International Conference on Learning Representations (https://iclr.cc/)
+   - International Conference on Formal Ontology in Information Systems (https://iaoa.org/fois/)
 # 3. Các chủ đề nghiên cứu (research topic) là gì?
    - Ontology
    - Knowledge Graph
