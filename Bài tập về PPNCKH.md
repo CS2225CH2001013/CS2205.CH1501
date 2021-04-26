@@ -5,6 +5,7 @@
    - International Conference on Distributed Computing Systems (https://icdcs2021.us/)
    - International Conference on Learning Representations (https://iclr.cc/)
    - International Conference on Formal Ontology in Information Systems (https://iaoa.org/fois/)
+   - Journal of Machine Learning Research (https://www.jmlr.org/)
 # 3. Các chủ đề nghiên cứu (research topic) là gì?
    - Ontology
    - Knowledge Graph
