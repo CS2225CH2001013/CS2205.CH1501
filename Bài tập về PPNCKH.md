@@ -6,6 +6,7 @@
    - Ontology Conferences (https://waset.org/ontology-conferences)
    - Distributed Computing and Artificial Intelligence
    - International Conference on Learning Representations
+   - International Conference on Knowledge Graphs
 # 3. Các chủ đề nghiên cứu (research topic) là gì?
    - Ontology
    - Knowledge Graph
