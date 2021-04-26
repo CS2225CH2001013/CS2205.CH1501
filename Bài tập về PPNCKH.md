@@ -11,7 +11,6 @@
    - Knowledge Graph
    - Semantic Web 
 # 4 . Các bài toán nghiên cứu là gì?
-   - Biễu diễn kiến thức cơ bản của môn Toán cho học sinh THPT
    - From Knowledge Graph Embedding to Ontology Embedding? An Analysis of the Compatibility between Vector Space Representations and Rules
    - Ontology-Based Multiple Choice Question Generation
 
