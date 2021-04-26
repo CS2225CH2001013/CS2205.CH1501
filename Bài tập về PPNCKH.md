@@ -3,7 +3,6 @@
    - Knowledge Representation
 # 2. Các hội nghị tạp chí quan trọng là gì?
    - Advances in Intelligent Systems and Computing
-   - Ontology Conferences (https://waset.org/ontology-conferences)
    - Distributed Computing and Artificial Intelligence
    - International Conference on Learning Representations
    - International Conference on Knowledge Graphs
