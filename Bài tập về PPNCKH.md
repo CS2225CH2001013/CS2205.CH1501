@@ -1,17 +1,18 @@
 
 # 1. Lĩnh vực nghiên cứu (research area) là gì?
-   - Lĩnh vực nghiên cứu Ontology
+   - Knowledge Representation
 # 2. Các hội nghị tạp chí quan trọng là gì?
    - Advances in Intelligent Systems and Computing
    - Ontology Conferences (https://waset.org/ontology-conferences)
    - Distributed Computing and Artificial Intelligence
-   - 
+   - International Conference on Learning Representations
 # 3. Các chủ đề nghiên cứu (research topic) là gì?
-   - Biểu diễn tri thức
-   - Đồ thị tri thức
-   - Mạng ngữ nghĩa
+   - Ontology
+   - Knowledge Graph
+   - Semantic Web 
 # 4 . Các bài toán nghiên cứu là gì?
-   Biễu diễn kiến thức cơ bản của môn Toán cho học sinh THPT
+   - Biễu diễn kiến thức cơ bản của môn Toán cho học sinh THPT
+   - From Knowledge Graph Embedding to Ontology Embedding? An Analysis of the Compatibility between Vector Space Representations and Rules
 
 ## Xây dựng hệ thống đánh giá và khuyến nghị kiến thức Toán cho học sinh THPT qua hệ thống câu hỏi trắc nghiệm Toán kỳ thi tốt nghiệp THPT-Quốc Gia 
 
