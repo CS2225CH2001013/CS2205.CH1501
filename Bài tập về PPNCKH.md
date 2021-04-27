@@ -1,6 +1,6 @@
 
 # 1. Lĩnh vực nghiên cứu (research area) là gì?
-   - Knowledge Representation
+   - Knowledge Representation, Machine Learning
 # 2. Các hội nghị tạp chí quan trọng là gì?
    - International Conference on Distributed Computing Systems (https://icdcs2021.us/)
    - International Conference on Learning Representations (https://iclr.cc/)
@@ -11,5 +11,12 @@
    - Knowledge Graph
    - Semantic Web 
 # 4 . Các bài toán nghiên cứu là gì?
-   - From Knowledge Graph Embedding to Ontology Embedding? An Analysis of the Compatibility between Vector Space Representations and Rules (https://www.semanticscholar.org/paper/From-Knowledge-Graph-Embedding-to-Ontology-An-of-Guti%C3%A9rrez-Basulto-Schockaert/60347869db7d1940958ee465b3010b3a612bf791)
-   - Ontology-Based Multiple Choice Question Generation (https://link.springer.com/article/10.1007/s13218-015-0405-9)
+   - Multi-class Gaussian Process Classification with Noisy Inputs (https://www.jmlr.org/papers/volume22/20-107/20-107.pdf)
+   - Banach Space Representer Theorems for Neural Networks and Ridge Splines (httpswww.jmlr.orgpapersvolume2220-58320-583.pdf)
+   - Random Subspace Ensemble Classification (https://www.jmlr.org/papers/volume22/20-600/20-600.pdf)
+   - Approximate Newton Methods (https://www.jmlr.org/papers/volume22/19-870/19-870.pdf)
+   - Communication-Efficient Distributed Covariance Sketch, with Application to Distributed PCA (https://www.jmlr.org/papers/volume22/20-705/20-705.pdf)
+   - A Statistical Learning Approach to Modal Regression (https://www.jmlr.org/papers/volume21/17-068/17-068.pdf)
+   - Generalized probabilistic principal component analysis of correlated data (https://www.jmlr.org/papers/volume21/18-595/18-595.pdf)
+   - Quadratic Decomposable Submodular Function Minimization: Theory and Practice (https://www.jmlr.org/papers/volume21/18-790/18-790.pdf)
+   - Convergence of Sparse Variational Inference in Gaussian Processes Regression (https://www.jmlr.org/papers/volume21/19-1015/19-1015.pdf
