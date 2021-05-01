@@ -6,6 +6,7 @@
    - International Conference on Learning Representations (https://iclr.cc/)
    - International Conference on Formal Ontology in Information Systems (https://iaoa.org/fois/)
    - Journal of Machine Learning Research (https://www.jmlr.org/)
+   - International Semantic Web Conference (https://iswc2021.semanticweb.org/)
 # 3. Các chủ đề nghiên cứu (research topic) là gì?
    - Ontology
    - Knowledge Graph
